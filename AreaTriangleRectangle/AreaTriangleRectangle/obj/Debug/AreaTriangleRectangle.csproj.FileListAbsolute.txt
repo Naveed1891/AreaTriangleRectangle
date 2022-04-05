@@ -1,0 +1,10 @@
+D:\C#\AreaTriangleRectangle\AreaTriangleRectangle\bin\Debug\AreaTriangleRectangle.exe.config
+D:\C#\AreaTriangleRectangle\AreaTriangleRectangle\bin\Debug\AreaTriangleRectangle.exe
+D:\C#\AreaTriangleRectangle\AreaTriangleRectangle\bin\Debug\AreaTriangleRectangle.pdb
+D:\C#\AreaTriangleRectangle\AreaTriangleRectangle\obj\Debug\AreaTriangleRectangle.csproj.AssemblyReference.cache
+D:\C#\AreaTriangleRectangle\AreaTriangleRectangle\obj\Debug\AreaTriangleRectangle.Form1.resources
+D:\C#\AreaTriangleRectangle\AreaTriangleRectangle\obj\Debug\AreaTriangleRectangle.Properties.Resources.resources
+D:\C#\AreaTriangleRectangle\AreaTriangleRectangle\obj\Debug\AreaTriangleRectangle.csproj.GenerateResource.cache
+D:\C#\AreaTriangleRectangle\AreaTriangleRectangle\obj\Debug\AreaTriangleRectangle.csproj.CoreCompileInputs.cache
+D:\C#\AreaTriangleRectangle\AreaTriangleRectangle\obj\Debug\AreaTriangleRectangle.exe
+D:\C#\AreaTriangleRectangle\AreaTriangleRectangle\obj\Debug\AreaTriangleRectangle.pdb
